@@ -14,7 +14,7 @@ After verifying the required connections, I created this diagram as a quick refe
 
 ## Connection Diagram
 
-![STM32F103C8T6 Blue Pill to NUCLEO-F446RE ST-LINK SWD Connection](STM32F103C8T6_BluePill_to_NUCLEO_F446RE_STLINK_SWD_Connection.png)
+![STM32F103C8T6 Blue Pill to NUCLEO-F446RE ST-LINK SWD Connection](images/STM32F103C8T6_BluePill_to_NUCLEO_F446RE_STLINK_SWD_Connection.png)
 
 ## Connection
 
